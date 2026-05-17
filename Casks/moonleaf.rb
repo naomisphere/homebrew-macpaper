@@ -1,6 +1,6 @@
 cask "moonleaf" do
-  version "3.0.0"
-  sha256 "6c296066b5ed8d19a72e0a6095b2b8d9af4d2b173090676a2da6b2848b6480d0"
+  version "3.1.0"
+  sha256 "b62ace178795f47b178578fb6e952afcfec7f3687c760f1e234877486ec3ba3b"
 
   url "https://github.com/naomisphere/moonleaf/releases/download/v#{version}/moonleaf.dmg"
   name "moonleaf"
